@@ -2,9 +2,9 @@
   "HikingTrails":
   [
     {"FastFoodName":"Mcdonalds","FastFoodDescription":"Enjoy a delicious Big Mac from Mcdonalds, a fan favorite that has been the staple of the company since the beginning","FastFoodCalories":340,"FastFoodImage":"https://raw.githubusercontent.com/cmaidaur/FastFood/main/Mcdonalds.png","FastFoodWebsite":"https://www.mcdonalds.com/us/en-us.html"},
-    {"FastFoodName":"Wendys","FastFoodDescription":"Enjoy some tender nuggets at Wendys along with a refreshing lemonade served ice cold","FastFoodCalories":520,"FastFoodImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg","FastFoodWebsite":"https://www.wendys.com/"},
-    {"FastFoodName":"Taco Bell","FastFoodDescription":"Enjoy a quesdilla with sour cream and why not dig into limited time only nacho fries as well?","FastFoodCalories":780,"FastFoodImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg","FastFoodWebsite":"https://www.tacobell.com/"},
-    {"FastFoodName":"Popeyes","FastFoodDescription":"Enjoy some delicious popeyes chicken with mashed potatoes and fries served in a way that will leave you craving more.","FastFoodCalories":1040,"FastFoodImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg","FastFoodWebsite":"https://www.popeyes.com/"}
+    {"FastFoodName":"Wendys","FastFoodDescription":"Enjoy some tender nuggets at Wendys along with a refreshing lemonade served ice cold","FastFoodCalories":520,"FastFoodImage":"https://raw.githubusercontent.com/cmaidaur/FastFood/main/wendys.jpeg","FastFoodWebsite":"https://www.wendys.com/"},
+    {"FastFoodName":"Taco Bell","FastFoodDescription":"Enjoy a quesdilla with sour cream and why not dig into limited time only nacho fries as well?","FastFoodCalories":780,"FastFoodImage":"https://raw.githubusercontent.com/cmaidaur/FastFood/main/Tacobell.jpeg","FastFoodWebsite":"https://www.tacobell.com/"},
+    {"FastFoodName":"Popeyes","FastFoodDescription":"Enjoy some delicious popeyes chicken with mashed potatoes and fries served in a way that will leave you craving more.","FastFoodCalories":1040,"FastFoodImage":"https://raw.githubusercontent.com/cmaidaur/FastFood/main/popeyes.png","FastFoodWebsite":"https://www.popeyes.com/"}
   ],
   "Status":"OK"
 }
